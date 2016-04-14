@@ -1,2 +1,2 @@
-# mapa-svg-ceara
-Mapa SVG do Ceará
+# Mapa SVG do Ceará
+Mapa do estado brasileiro do ceará em SVG. Utilizando a biblioteca Raphaël JS
